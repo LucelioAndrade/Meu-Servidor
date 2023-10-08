@@ -9,6 +9,8 @@ const professores = [
 ];
 
 app.get('/professores', (req, res) => {
+        
+
         res.send(professores)
 });
 
