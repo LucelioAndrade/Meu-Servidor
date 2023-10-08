@@ -14,3 +14,5 @@ As requisições são utilizadas na url do proprio navegador sendo elas:
 
 "http://localhost:3000/professores" : Listas os professores.
 "http://localhost:3000/professores/:id" Acha um professor expecifico.
+
+OBS: Projeto não finalizado.
